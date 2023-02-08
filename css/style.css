@@ -21,7 +21,7 @@ File: Main scss file
 @import url("https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap");
 body {
   overflow-x: hidden;
-  max-width: 1300px;
+  max-width: 2500px;
   margin: 0 auto;
   font-size: 14.4px;
   color: #37445a;
@@ -535,7 +535,7 @@ h6 {
   margin-bottom: 0px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  max-width: 1300px;
+  max-width: 2500px;
   margin: 0px auto;
 }
 
